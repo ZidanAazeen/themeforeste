@@ -1,0 +1,447 @@
+/* Extra small devices (portrait phones, less than 576px */
+
+@media (max-width: 575.98px) {
+    .header-content h2 {
+        font-size: 35px;
+        padding-top: 55px;
+        padding-bottom: 22px;
+        letter-spacing: 0px;
+    }
+    .header-content::before {
+        width: 73%;
+        left: 15%;
+        top: 23%;
+    }
+    .header-content::after {
+        width: 73%;
+        left: 15%;
+        top: 54%;
+    }
+    .header-content h5 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 12px;
+        color: #ffffff;
+        padding-bottom: 55px;
+    }
+    #introduction-part {
+        padding-top: 40px;
+    }
+    .introduction-content h4 {
+        padding: 0px 0;
+        font-size: 8px;
+    }
+    .introduction-content p {
+        font-size: 5px;
+        padding-bottom: 0px;
+        width: 100%;
+    }
+    .introduction-content .introduction-p-2 {
+        padding-bottom: 0px;
+    }
+    .introduction-content button {
+        font-size: 5px;
+        padding: 3px 10px;
+    }
+    #working-area {
+        padding: 30px 0;
+    }
+    .working-top h3 {
+        font-size: 16px;
+        padding-bottom: 0px;
+    }
+    .working-top h6 {
+        font-size: 8px;
+        margin-bottom: 20px;
+    }
+    .working-font-awesome i {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .working-font-awesome h5 {
+        font-size: 8px;
+    }
+    .working-font-awesome {
+        padding: 10px 0;
+    }
+    #experience-part {
+        padding: 30px 0;
+    }
+    .left-part {
+        padding: 20px 0;
+        padding-left: 20px;
+    }
+    .left-part h3 {
+        font-size: 12px;
+        padding-bottom: 5px;
+    }
+    .left-part h5 {
+        font-size: 10px;
+    }
+    .left-part h6 {
+        font-size: 9px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .left-part p {
+        font-size: 6px;
+    }
+    #latest-work-area {
+        padding: 25px 0;
+    }
+    .latest-work-upper h2 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .latest-work-upper h6 {
+        font-size: 10px;
+        padding-bottom: 15px;
+    }
+    #testimonial-area {
+        padding-top: 25px;
+    }
+    .testimonial-content i {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .testimonial-content p {
+        font-size: 6px;
+        padding-bottom: 0px;
+        line-height: 12px;
+    }
+    .testimonial-content h5 {
+        font-size: 8px;
+        padding-top: 7px;
+        padding-bottom: 2px;
+    }
+    .testimonial-content h6 {
+        font-size: 7px;
+    }
+    .carousel-item {
+        padding-bottom: 70px;
+    }
+    .carousel-indicators li {
+        width: 8px;
+        height: 8px;
+        margin-bottom: 0;
+    }
+    #contact-part {
+        padding: 40px 0;
+    }
+    .address-left {
+        padding: 20px 15px;
+    }
+    .address-left h3 {
+        font-size: 10px;
+        padding-bottom: 20px;
+    }
+    .contact-button button {
+        padding: 5px 18px;
+        font-size: 12px;
+        margin-top: 15px;
+    }
+    .contact-details h4 {
+        font-size: 10px;
+        padding-bottom: 10px;
+    }
+    .contact-details {
+        padding: 20px 15px;
+    }
+    .contact-details p {
+        font-size: 8px;
+    }
+    .contact-details1 {
+        margin-bottom: 100px;
+    }
+    .contact-details2 {
+        margin-bottom: 100px;
+    }
+    #footer-area {
+        padding: 40px 0;
+    }
+    .footer-all i {
+        font-size: 13px;
+        padding: 0 10px;
+    }
+    .footer-all h6 {
+        font-size: 10px;
+        padding-top: 20px;
+    }
+}
+
+
+/* Small devices (landscape phones, 576px and up */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .header-content h2 {
+        font-size: 40px;
+        padding-top: 100px;
+        padding-bottom: 40px;
+        letter-spacing: 2px;
+    }
+    .header-content::before {
+        width: 54%;
+        left: 24%;
+        top: 23%;
+    }
+    .header-content::after {
+        width: 54%;
+        left: 24%;
+        top: 54%;
+    }
+    .header-content h5 {
+        font-size: 14px;
+        padding-bottom: 100px;
+    }
+    #introduction-part {
+        padding-top: 60px;
+    }
+    .introduction-content h4 {
+        padding: 5px 0;
+        font-size: 12px;
+    }
+    .introduction-content p {
+        font-size: 8px;
+        padding-bottom: 0px;
+        width: 100%;
+    }
+    .introduction-content .introduction-p-2 {
+        padding-bottom: 0px;
+    }
+    .introduction-content button {
+        font-size: 10px;
+        padding: 5px 20px;
+    }
+    #working-area {
+        padding: 50px 0;
+    }
+    .working-top h3 {
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .working-top h6 {
+        font-size: 11px;
+        margin-bottom: 40px;
+    }
+    .working-font-awesome i {
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+    .working-font-awesome h5 {
+        font-size: 10px;
+    }
+    .working-font-awesome {
+        padding: 15px 0;
+    }
+    #experience-part {
+        padding: 40px 0;
+    }
+    .left-part {
+        padding: 30px 0;
+        padding-left: 30px;
+    }
+    .left-part h3 {
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+    .left-part h5 {
+        font-size: 15px;
+    }
+    .left-part h6 {
+        font-size: 12px;
+        padding-top: 20px;
+        padding-bottom: 15px;
+    }
+    .left-part p {
+        font-size: 10px;
+    }
+    #latest-work-area {
+        padding: 40px 0;
+    }
+    .latest-work-upper h2 {
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    .latest-work-upper h6 {
+        font-size: 14px;
+        padding-bottom: 35px;
+    }
+    #testimonial-area {
+        padding-top: 40px;
+    }
+    .testimonial-content i {
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+    .testimonial-content p {
+        font-size: 8px;
+        padding-bottom: 0px;
+        line-height: 15px;
+    }
+    .testimonial-content h5 {
+        font-size: 12px;
+        padding-top: 15px;
+        padding-bottom: 2px;
+    }
+    .testimonial-content h6 {
+        font-size: 10px;
+    }
+    .carousel-item {
+        padding-bottom: 70px;
+    }
+    .carousel-indicators li {
+        width: 8px;
+        height: 8px;
+        margin-bottom: 0;
+    }
+    #contact-part {
+        padding: 70px 0;
+    }
+    .address-left {
+        padding: 30px 20px;
+    }
+    .address-left h3 {
+        font-size: 14px;
+        padding-bottom: 30px;
+    }
+    .contact-button button {
+        padding: 8px 25px;
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    .contact-details h4 {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+    .contact-details {
+        padding: 30px 20px;
+    }
+    .contact-details p {
+        font-size: 12px;
+    }
+    .contact-details1 {
+        margin-bottom: 70px;
+    }
+    .contact-details2 {
+        margin-bottom: 70px;
+    }
+    #footer-area {
+        padding: 60px 0;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .header-content h2 {
+        font-size: 55px;
+        letter-spacing: 3px;
+    }
+    .header-content::before {
+        width: 55%;
+        left: 23%;
+    }
+    .header-content::after {
+        width: 55%;
+        left: 23%;
+    }
+    .header-content h5 {
+        font-size: 18px;
+    }
+    #introduction-part {
+        padding-top: 60px;
+    }
+    .introduction-content h4 {
+        padding: 5px 0;
+        font-size: 15px;
+    }
+    .introduction-content p {
+        font-size: 11px;
+        padding-bottom: 0px;
+        width: 100%;
+    }
+    .introduction-content .introduction-p-2 {
+        padding-bottom: 10px;
+    }
+    .introduction-content button {
+        font-size: 10px;
+    }
+    #working-area {
+        padding: 80px 0;
+    }
+    .working-font-awesome {
+        padding: 20px 0;
+    }
+    #experience-part {
+        padding: 70px 0;
+    }
+    #latest-work-area {
+        padding: 70px 0;
+    }
+    #testimonial-area {
+        padding-top: 70px;
+    }
+    .testimonial-content i {
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .testimonial-content p {
+        font-size: 12px;
+        padding-bottom: 15px;
+    }
+    .carousel-indicators li {
+        width: 10px;
+        height: 10px;
+    }
+    #contact-part {
+        padding: 70px 0;
+    }
+    .address-left {
+        padding: 40px 40px;
+    }
+    .address-left h3 {
+        font-size: 20px;
+        padding-bottom: 30px;
+    }
+    .contact-button button {
+        font-size: 15px;
+    }
+    .contact-details h4 {
+        font-size: 20px;
+        padding-bottom: 30px;
+    }
+    .contact-details {
+        padding: 40px 40px;
+    }
+}
+
+
+/* Large devices (desktops, 992px and up */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .header-content::before {
+        width: 52%;
+        left: 24%;
+    }
+    .header-content::after {
+        width: 52%;
+        left: 24%;
+    }
+    #introduction-part {
+        padding-top: 60px;
+    }
+    .introduction-content h4 {
+        padding: 10px 0;
+    }
+    .introduction-content .introduction-p-2 {
+        padding-bottom: 10px;
+    }
+    .introduction-content button {
+        font-size: 15px;
+    }
+}
+
+
+/* Extra large devices (large desktops, 1200px and up */
+
+@media (min-width: 1200px) {}
